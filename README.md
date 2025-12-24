@@ -56,9 +56,9 @@ Este projeto segue rigorosamente os padrões da comunidade Laravel e PSR-12:
 * **Banco de Dados:** MySQL 8.0.
 * **Ambiente:** Docker & Laravel Sail (Isolamento total de ambiente).
 * **Design Patterns:**
-* **MVC Rigoroso:** Controllers magros, lógica delegada.
-* **Type Safety:** Uso extensivo de tipagem forte e Enums.
-* **Repository/Service Mindset:** Lógica de validação isolada em FormRequests.
+    * **MVC Rigoroso:** Controllers magros, lógica delegada.
+    * **Type Safety:** Uso extensivo de tipagem forte e Enums.
+    * **Repository/Service Mindset:** Lógica de validação isolada em FormRequests.
 
 
 
