@@ -56,10 +56,7 @@ Este projeto segue rigorosamente os padrões da comunidade Laravel e PSR-12:
 * **Banco de Dados:** MySQL 8.0.
 * **Ambiente:** Docker & Laravel Sail (Isolamento total de ambiente).
 * **Design Patterns:**
-* 
-**MVC Rigoroso:** Controllers magros, lógica delegada.
-
-
+* **MVC Rigoroso:** Controllers magros, lógica delegada.
 * **Type Safety:** Uso extensivo de tipagem forte e Enums.
 * **Repository/Service Mindset:** Lógica de validação isolada em FormRequests.
 
@@ -80,7 +77,7 @@ Este projeto utiliza **Laravel Sail** (Docker), o que significa que você não p
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/library-pro.git
+git clone https://github.com/desv-jorge/Library-PRO.git
 cd library-pro
 
 ```
